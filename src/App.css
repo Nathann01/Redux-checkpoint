@@ -4,7 +4,7 @@ body {
   background-color: rgba(239, 206, 240, 0.893);
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
+  padding: 1;
 }
 
 .app-container {
